@@ -43,3 +43,10 @@ j)
  Dictator and Lieutenants workflow, meaning it is much less likely to break when 100
  developers are pushing their changes.
 
+Question 5
+ RoleGame uses both polymorphism and encapsulation. All weapon types are children of the
+ Weapon class, and all have their own versions of the hit function. When called, the hit
+ function executed is based off of the object that invoked it. Encapsulation is present
+ in the form of the weapon types, as they are created through classes. These classes
+ contain the data and functions for each weapon type, thus encapsulation is present in
+ RoleGame.
