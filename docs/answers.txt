@@ -1,0 +1,45 @@
+a)
+ Counting objects: 7, done.
+ Delta compression using up to 8 threads.
+ Compressing objects: 100% (5/5), done.
+ Writing objects: 100% (7/7), 746 bytes | 746.00 KiB/s, done.
+ Total 7 (delta 2), reused 0 (delta 0)
+ remote: Resolving deltas: 100% (2/2), completed with 1 local object.
+ To https://github.com/rgkenney/Assignment1.git
+    3d373c9..29e2dab  master -> master
+   
+b)
+ 5 commits total
+ Command used: git log
+
+c)
+ The file was last modified 1/10/19 4:45 PM
+ Command used: git log .gitignore
+
+d)
+ 1) To make edits to project without altering it.
+ 2) To allow multiple people to work on a project at the same time.
+
+e)
+ git log provides the project history, while git status provides the current state.
+
+f)
+ git log Weapon.h
+
+g)
+ git log --grep=file
+
+h)
+ I) Inheritance refers to an object taking properties from a parent object.
+ II) Polymorphism refers to different kinds of objects utilizing the same interface.
+ III) Encapsulation refers to the grouping of data and functions into a class.
+
+i)
+ The Dictator and Lieutenants workflow merges the work done by the developers done in 
+ multiple repositories rather than all at once by the integration manager.
+
+j)
+ Parts are successfully integrated before being pushed to the master repository in the
+ Dictator and Lieutenants workflow, meaning it is much less likely to break when 100
+ developers are pushing their changes.
+
